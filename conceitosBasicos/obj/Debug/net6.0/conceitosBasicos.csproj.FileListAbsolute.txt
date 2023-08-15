@@ -1,0 +1,14 @@
+C:\Users\Novaes\OneDrive - UGB\Exercícios\Programação\CSharp - Rosenclever - Programação III\conceitosBasicosCSharp\conceitosBasicos\bin\Debug\net6.0\conceitosBasicos.exe
+C:\Users\Novaes\OneDrive - UGB\Exercícios\Programação\CSharp - Rosenclever - Programação III\conceitosBasicosCSharp\conceitosBasicos\bin\Debug\net6.0\conceitosBasicos.deps.json
+C:\Users\Novaes\OneDrive - UGB\Exercícios\Programação\CSharp - Rosenclever - Programação III\conceitosBasicosCSharp\conceitosBasicos\bin\Debug\net6.0\conceitosBasicos.runtimeconfig.json
+C:\Users\Novaes\OneDrive - UGB\Exercícios\Programação\CSharp - Rosenclever - Programação III\conceitosBasicosCSharp\conceitosBasicos\bin\Debug\net6.0\conceitosBasicos.dll
+C:\Users\Novaes\OneDrive - UGB\Exercícios\Programação\CSharp - Rosenclever - Programação III\conceitosBasicosCSharp\conceitosBasicos\bin\Debug\net6.0\conceitosBasicos.pdb
+C:\Users\Novaes\OneDrive - UGB\Exercícios\Programação\CSharp - Rosenclever - Programação III\conceitosBasicosCSharp\conceitosBasicos\obj\Debug\net6.0\conceitosBasicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Novaes\OneDrive - UGB\Exercícios\Programação\CSharp - Rosenclever - Programação III\conceitosBasicosCSharp\conceitosBasicos\obj\Debug\net6.0\conceitosBasicos.AssemblyInfoInputs.cache
+C:\Users\Novaes\OneDrive - UGB\Exercícios\Programação\CSharp - Rosenclever - Programação III\conceitosBasicosCSharp\conceitosBasicos\obj\Debug\net6.0\conceitosBasicos.AssemblyInfo.cs
+C:\Users\Novaes\OneDrive - UGB\Exercícios\Programação\CSharp - Rosenclever - Programação III\conceitosBasicosCSharp\conceitosBasicos\obj\Debug\net6.0\conceitosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\Novaes\OneDrive - UGB\Exercícios\Programação\CSharp - Rosenclever - Programação III\conceitosBasicosCSharp\conceitosBasicos\obj\Debug\net6.0\conceitosBasicos.dll
+C:\Users\Novaes\OneDrive - UGB\Exercícios\Programação\CSharp - Rosenclever - Programação III\conceitosBasicosCSharp\conceitosBasicos\obj\Debug\net6.0\refint\conceitosBasicos.dll
+C:\Users\Novaes\OneDrive - UGB\Exercícios\Programação\CSharp - Rosenclever - Programação III\conceitosBasicosCSharp\conceitosBasicos\obj\Debug\net6.0\conceitosBasicos.pdb
+C:\Users\Novaes\OneDrive - UGB\Exercícios\Programação\CSharp - Rosenclever - Programação III\conceitosBasicosCSharp\conceitosBasicos\obj\Debug\net6.0\conceitosBasicos.genruntimeconfig.cache
+C:\Users\Novaes\OneDrive - UGB\Exercícios\Programação\CSharp - Rosenclever - Programação III\conceitosBasicosCSharp\conceitosBasicos\obj\Debug\net6.0\ref\conceitosBasicos.dll
