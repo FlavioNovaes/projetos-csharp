@@ -19,3 +19,4 @@ Console.WriteLine("PI: {0}", pi.ToString(CultureInfo.InvariantCulture));
 
 Console.WriteLine("Informe sua idade: ");
 int idade = int.Parse(Console.ReadLine());
+Console.WriteLine($"Idade: {idade}");
