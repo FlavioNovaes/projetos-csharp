@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace conceitosBasicosExercicios
 {
-    internal class Conversor
+    public class Conversor
     {
-        public double MetrosMilimetros(double metros)
+        public static double MetrosMilimetros(double metros)
         {
             return metros = 1000;
         }
