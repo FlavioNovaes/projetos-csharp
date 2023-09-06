@@ -12,8 +12,13 @@ namespace controleContas
         {
             this.Numero = numero;
         }
-        public Conta() { }
+        public Conta() { 
+        }
         public long Numero { get; private set; }
         public decimal Saldo { get; set; }
+        public decimal MaiorSaldo()
+        {
+            return Saldo;
+        }
     }
 }
