@@ -8,23 +8,31 @@ namespace controleContas
 {
     public class Conta
     {
-        public Conta(long numero)
+        public Conta(long numero, Cliente titular)
         {
             this.Numero = numero;
-        }
-        public Conta() { 
+            this.Titular = titular;
         }
         public long Numero { get; private set; }
         public decimal Saldo { get; set; }
+        public Cliente Titular { get; private set; }
         public static decimal SaldoTotalGeral { get; private set; }
+
+        public decimal Saque(decimal ValorSaque)
+        {
+            if (ValorSaque > Saldo)
+            {
+                Console.WriteLine("Saldo insuficiente para saque");
+                return Saldo;
+            }
+            
+            Saldo -= ValorSaque;
+            return Saldo;
+        }
         public void AtualizarSaldo(decimal novoSaldo)
         {
-            if (novoSaldo > this.Saldo)
-            {
-                this.Saldo = novoSaldo;
-            }
-
-            SaldoTotalGeral += this.Saldo;
+            Saldo += novoSaldo;
+            SaldoTotalGeral += Saldo;
         }
     }
 }

@@ -11,7 +11,6 @@ namespace controleContas
         public string Nome { get; set; }
         public int Idade { get; set; }
         public string CPF { get; private set; }
-
         public Cliente(string nome, int idade, string cpf)
         {
             if (idade > 18)
