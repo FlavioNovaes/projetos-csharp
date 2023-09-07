@@ -16,9 +16,15 @@ namespace controleContas
         }
         public long Numero { get; private set; }
         public decimal Saldo { get; set; }
-        public decimal MaiorSaldo()
+        public static decimal SaldoTotalGeral { get; private set; }
+        public void AtualizarSaldo(decimal novoSaldo)
         {
-            return Saldo;
+            if (novoSaldo > this.Saldo)
+            {
+                this.Saldo = novoSaldo;
+            }
+
+            SaldoTotalGeral += this.Saldo;
         }
     }
 }
